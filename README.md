@@ -28,5 +28,16 @@ In index.css
 @tailwind components;
 @tailwind utilities;
 
-Run:
-npm run dev</p>
+//layout
+
+nav
+landing page
+marque
+about
+playful
+cards
+cards sec 2
+ready to start the projects
+footer
+
+
